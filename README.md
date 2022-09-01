@@ -9,15 +9,15 @@ HTML/CSS/Bootstrap are being using to modify website visuals.
 ## Results:
 ### The Truth is Out There! 
 
-![Pic 1]()
+![Pic 1](https://github.com/brivasbravo/UFOs/blob/main/static/images/UFO1.png)
 
 ### How the filters appear when first loading page:
-![Pic 2]()
+![Pic 2](https://github.com/brivasbravo/UFOs/blob/main/static/images/UFO2.png)
 
 ### How the filters appear after using search feature: 
 Please note search is case sensitive and to clear out results click top left "filter search".
 
-![Pic 3]()
+![Pic 3](https://github.com/brivasbravo/UFOs/blob/main/static/images/UFO3.png)
 
 ## Summary: 
 
@@ -27,7 +27,7 @@ database then nothing will appear instead of a note saying no search results for
 
 ### Recommendations: 
 1. Update the date function to let you search by month instead of exact date.
-![Pic 4]()
+![Pic 4](https://github.com/brivasbravo/UFOs/blob/main/static/images/UFO4.png)
 
 2. Allow search to use upper and lower case words to function.
-![Pic 5]()
+![Pic 5](https://github.com/brivasbravo/UFOs/blob/main/static/images/UFO5.png)
